@@ -12,8 +12,6 @@ not included.
 - `remote_scripts/`: scripts intended to be copied into
   `Time-Series-Library/scripts/parr_icdm/` on a GPU server.
 - `paper/`: ICDM LaTeX source and generated figure assets.
-- `docs/SUPPLEMENT_ARTIFACTS.md`: mapping from paper results to scripts and
-  expected result files.
 
 
 ## Local Analyses
