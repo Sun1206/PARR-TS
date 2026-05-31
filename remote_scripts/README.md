@@ -3,7 +3,7 @@
 Remote project root:
 
 ```bash
-/root/autodl-tmp/parr_ts_icdm/Time-Series-Library
+Time-Series-Library
 ```
 
 Backbone plan:
