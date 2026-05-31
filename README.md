@@ -15,12 +15,6 @@ not included.
 - `docs/SUPPLEMENT_ARTIFACTS.md`: mapping from paper results to scripts and
   expected result files.
 
-## Build the Paper
-
-```powershell
-cd paper
-tectonic --outdir build main.tex
-```
 
 ## Local Analyses
 
