@@ -11,7 +11,6 @@ not included.
   case-study, effective-sample, Traffic-scale, and overhead scripts.
 - `remote_scripts/`: scripts intended to be copied into
   `Time-Series-Library/scripts/parr_icdm/` on a GPU server.
-- `paper/`: ICDM LaTeX source and generated figure assets.
 
 
 ## Local Analyses
